@@ -9,4 +9,5 @@ A simple and fun **Rock Paper Scissors** game built using HTML, CSS, and JavaScr
 - Simple and clean UI
 
 ## 🚀 Live Demo
-👉 [Play Now]
+👉 https://github.com/anjalibhalala/rock-paper-scissors.git
+
